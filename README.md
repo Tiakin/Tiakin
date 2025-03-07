@@ -1,5 +1,8 @@
-## Hi there 👋
+## Coucou 👋
 
+[Streak](https://github-readme-streak-stats-for-me.vercel.app/?user=tiakin&theme=dracula&locale=fr&mode=weekly)
+
+[Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiakin&theme=dracula&layout=compact&locale=fr)
 <!--
 **Tiakin/Tiakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
