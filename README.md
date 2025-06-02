@@ -3,6 +3,6 @@ Je suis un étudiant en deuxième année de BUT Informatique, parcours Réalisat
 ## Commit streak
 ![Streak](https://github-readme-streak-stats-for-me.vercel.app/?user=tiakin&theme=dracula&locale=fr&mode=weekly)
 ## Classement des langues
-![Top langs](https://github-readme-stats-six-mu-37.vercel.app/api/top-langs/?username=tiakin&theme=dracula&layout=compact&locale=fr)
+![Top langs](https://github-readme-stats-six-mu-37.vercel.app/api/top-langs/?username=tiakin&theme=dracula&layout=compact&locale=en)
 ## Stats
 ![Stats](https://github-readme-stats-six-mu-37.vercel.app/api?username=tiakin&show_icons=true&theme=dracula&locale=fr)
